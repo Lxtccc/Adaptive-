@@ -7,7 +7,7 @@ If you have any questions, please contact us at xiaotonglu47@gmail.com or wsdong
 
 If our work is cited, please mark the citation as:
 
-
+``
 @article{lu2023adaptive,
   title={Adaptive Search-and-Training for Robust and Efficient Network Pruning},
   author={Lu, Xiaotong and Dong, Weisheng and Li, Xin and Wu, Jinjian and Li, Leida and Shi, Guangming},
@@ -15,3 +15,4 @@ If our work is cited, please mark the citation as:
   year={2023},
   publisher={IEEE}
 }
+``
